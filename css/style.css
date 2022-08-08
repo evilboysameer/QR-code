@@ -1,0 +1,40 @@
+body{
+background: white;
+  text-align: center;
+  font-size: 15px;
+  margin: 80px 70px 0 70px;
+}
+img{
+border-radius: 5px;
+}
+.QR_code{
+  height: 330px;
+  width: 200px;
+  margin:auto;
+  background: white;
+
+  border-radius: 18px;
+
+
+}
+.big{
+background: rgb(82, 121, 188);
+
+padding: 100px 50px 100px 50px;
+box-shadow: 10px 10px 8px #888888;
+
+
+
+}
+
+h6{
+  margin: 10px ;
+  color: rgb(123, 135, 157);
+}
+h3{
+  margin: 5px;
+}
+div{
+margin: auto;
+  padding: 10px 2px 3px 2px;
+}
